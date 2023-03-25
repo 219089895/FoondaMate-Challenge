@@ -1,18 +1,5 @@
 # FoondaMate Software Engineer Coding Challenge-002
 
-## Project structure
-
---- Equations
-    --- equation1.js
-    --- equation2.js
---- Tests
-    --- equation1.test.js
-    --- equation2.test.js
---- node_modules
---- jest.config.js
---- package.json
---- readme.md
-
 ## Setup
 Make sure you have nodejs installed.
 
