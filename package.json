@@ -1,0 +1,14 @@
+{
+  "name": "foondamatechallenge",
+  "version": "1.0.0",
+  "description": "FoondaMate Software Engineer Coding Challenge-002",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Precious",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
